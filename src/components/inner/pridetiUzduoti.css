@@ -1,0 +1,45 @@
+
+#task {
+margin-left: 20px;
+padding: 8px 22px;
+border: 2px solid rgb(70, 140, 173);
+border-radius: 15px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#label {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#btn {
+   border: 2px solid rgb(70, 140, 173);
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 17px;
+   border-radius: 15px;
+}
+
+#btn:hover {
+background-color: rgb(70, 140, 173);
+transition: all ease-in-out 1s;
+}
+
+.form-control {
+    border: 2px solid rgb(70, 140, 173);
+}
+
+.form-label {
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+
+.card-header {
+    background-color: rgb(70, 140, 173);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.card {
+    border: 2px solid rgb(70, 140, 173);
+    border-radius: 10px;
+}

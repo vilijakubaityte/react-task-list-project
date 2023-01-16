@@ -1,3 +1,19 @@
+html {
+  background-color: rgba(219, 217, 217, 0.854);
+}
+
+.body {
+  background-color: rgba(219, 217, 217, 0.854);
+}
+
+
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
 .App {
   text-align: center;
 }
